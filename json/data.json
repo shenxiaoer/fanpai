@@ -1,0 +1,25 @@
+{
+  "awardNames":[
+      "汽车","苹果",
+      "谢谢参与","5Q币",
+      "10M流量","谢谢参与",
+      "谢谢参与","谢谢参与",
+      "谢谢参与","谢谢参与",
+      "谢谢参与","谢谢参与"
+      ],
+   "src":[
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png",
+        "~/../img/qb.png"  
+    ],
+  "number":3
+}
